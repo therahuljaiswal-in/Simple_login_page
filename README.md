@@ -9,4 +9,4 @@ This repository contains the source code for a straightforward login page design
 <br>
 Below is the interface as required :
 <br><br>
-<img>![gym site](https://github.com/therahuljaiswal-in/Simple_login_page/assets/168125798/140a54a9-6e86-4b1b-b968-1bc716ffa1e4) </img>
+<img>https://github.com/therahuljaiswal-in/Simple_login_page/assets/168125798/140a54a9-6e86-4b1b-b968-1bc716ffa1e4</img>
